@@ -12,7 +12,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1ZwqZWDVTLE56RsHZ7kL20dNsj2UxmBEC/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/noumankhateeb/",
-  twitter: "https://twitter.com/nouman_khateeb/",
+  x: "https://x.com/nouman_khateeb",
   insta: "https://www.instagram.com/noumankhateeb/",
   facebook: "https://www.facebook.com/noumankhateeb/",
 };
