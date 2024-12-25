@@ -357,7 +357,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/noumankhateeb/Dashboard",
-    webapp: "https://github.com/noumankhateeb/Dashboard",
+    webapp: "https://transcendent-treacle-a9626f.netlify.app/",
   },
   // {
   //   id: 0,
