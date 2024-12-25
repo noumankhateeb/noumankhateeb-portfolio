@@ -23,17 +23,17 @@ export const skills = [
     skills: [
       {
         name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        image: "https://cdn-icons-png.flaticon.com/128/174/174854.png",
       },
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://cdn-icons-png.flaticon.com/128/732/732190.png",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://cdn-icons-png.flaticon.com/128/5968/5968292.png",
       },
       {
         name: "React Js",
@@ -124,7 +124,7 @@ export const skills = [
       {
         name: "Android Studio",
         image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png",
       },
       // {
       //   name: "Java",
