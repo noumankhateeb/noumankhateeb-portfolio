@@ -1,9 +1,9 @@
 import React from 'react'
-import { Nav, NavLink, NavbarContainer, Span, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink } from './NavbarStyledComponent'
-import { DiCssdeck } from 'react-icons/di';
+import { Nav, NavLink, NavbarContainer, NavLogo, NavItems, GitHubButton, ButtonContainer, MobileIcon, MobileMenu, MobileLink } from './NavbarStyledComponent'
 import { FaBars } from 'react-icons/fa';
 import { Bio } from '../../data/constants';
 import { useTheme } from 'styled-components';
+import Logo from '../../images/logo.png'
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);
@@ -11,10 +11,13 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to='/'>
+        {/* <NavLogo to='/'>
           <a href='/' style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
             <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
           </a>
+        </NavLogo> */}
+        <NavLogo to='/'>
+          <img src={Logo} alt="Logo" style={{ marginRight: '10px', height: '50px' }} />
         </NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {

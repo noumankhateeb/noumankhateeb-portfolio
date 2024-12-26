@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I'm passionate about building dynamic, user-friendly web applications. I am skilled in JavaScript, React.js, and Node.js, with a strong track record in web development. As a quick learner, I thrive on exploring innovative technologies and am committed to driving continuous improvement and innovation in every project I undertake. Let's connect and create something impactful together!",
   github: "https://github.com/noumankhateeb",
   resume:
     "https://drive.google.com/file/d/1ZwqZWDVTLE56RsHZ7kL20dNsj2UxmBEC/view?usp=sharing",
@@ -347,20 +347,16 @@ export const projects = [
     title: "Nouman Kahteeb Portfolio",
     date: "December 2024",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "My portfolio website is a comprehensive showcase of my professional journey and expertise, designed to provide a seamless user experience. It features an About section that introduces me and my background, followed by a Skills section where I highlight my technical proficiencies and areas of expertise. The Experience section details my professional roles and contributions, while the Projects section showcases some of my notable work, reflecting my ability to create impactful and user-friendly solutions. The Education section highlights my academic accomplishments, and the Contact section allows visitors to connect with me directly through a form powered by EmailJS.",
     image:
       "https://raw.githubusercontent.com/noumankhateeb/noumankhateeb-portfolio/refs/heads/main/Screenshot.png",
     tags: [
       "React JS",
-      "MongoDb",
-      "Node JS",
-      "Express JS",
-      "Redux",
-      "NodeMailer",
+      "Email JS",
     ],
     category: "web app",
-    github: "https://github.com/noumankhateeb/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/noumankhateeb/noumankhateeb-portfolio",
+    webapp: "https://noumankhateeb.netlify.app/",
   },
   {
     id: 1,
@@ -394,6 +390,23 @@ export const projects = [
     //   github: "https://github.com/noumankhateeb",
     // },
     // ],
+  },
+  {
+    id: 2,
+    title: "Weather App",
+    date: "Jan 2024",
+    description:
+      "This weather app provides real-time and accurate weather forecasts for any city worldwide. It allows users to search for their desired location and view detailed 5-day forecasts, including temperature, humidity, and other weather conditions. The app is built using React.js and Redux Toolkit, integrating the WeatherAPI for reliable data fetching. Deployed on Netlify, it offers fast and efficient access. This project showcases expertise in modern web development and API integration while delivering a practical and visually appealing solution.",
+    image:
+      "https://raw.githubusercontent.com/noumankhateeb/weather-app/refs/heads/main/Screenshot.png",
+    tags: [
+      "React JS",
+      "Redux Toolkit",
+      "Weather Api",
+    ],
+    category: "web app",
+    github: "https://github.com/noumankhateeb/weather-app",
+    webapp: "https://weather-app-noumankhateeb.netlify.app/",
   },
   {
     id: 2,
