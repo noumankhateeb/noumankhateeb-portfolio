@@ -85,6 +85,11 @@ export const skills = [
         image: "https://nodejs.org/static/images/logo.svg",
       },
       {
+        name: "Firebase",
+        image:
+          "https://brandeps.com/logo-download/F/Firebase-logo-02.png",
+      },
+      {
         name: "Express Js",
         image:
           "https://www.manektech.com/storage/developer/1646733543.webp",
@@ -226,27 +231,26 @@ export const experiences = [
       "Tailwind",
     ],
   },
-  // {
-  //   id: 0,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //   role: "DevOps & Fullstack Engineering Intern",
-  //   company: "Flipr Inovations Pvt. Ltd.",
-  //   date: "Aug 2023 - July 2023",
-  //   desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
-  //   skills: [
-  //     "Docker",
-  //     "Terraform",
-  //     "AWS",
-  //     "EC2",
-  //     "Portainer",
-  //     "Nginx",
-  //     "JavaScript",
-  //     "TypeScript",
-  //     "Node Js",
-  //     " Next Js",
-  //   ],
-  //   doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  // },
+  {
+    id: 2,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQHeGNJH06f2BQ/company-logo_200_200/company-logo_200_200/0/1694072901379/techozon_software_house_logo?e=1749081600&v=beta&t=zlczEbl5EeKSo8Jh1eet4QuT0WZiIyE-vKHcexNpByM",
+    role: "Fullstack Developer",
+    company: "Techozon Software House",
+    date: "Jan 2025 - Present",
+    desc: `As a Fullstack Developer at Techozon Software House, I am responsible for designing, developing, and maintaining web applications using modern technologies. My role involves building scalable and efficient solutions with Next.js and Firebase, ensuring seamless authentication, real-time data synchronization, and optimized performance.
+    I work with TypeScript, JavaScript, HTML, CSS, and Tailwind CSS to create responsive and user-friendly interfaces. Additionally, I leverage Firebase Data Connect to streamline data management and enhance application reliability.
+    My focus is on delivering high-quality software solutions that align with industry standards while continuously improving performance and user experience.`,
+    skills: [
+      "Next JS",
+      "Firebase",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Tailwind",
+      "Firebase Data Connect",
+    ],
+  },
   // {
   //   id: 0,
   //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
