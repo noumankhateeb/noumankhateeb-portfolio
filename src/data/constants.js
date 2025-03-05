@@ -10,7 +10,7 @@ export const Bio = {
     "I'm passionate about building dynamic, user-friendly web applications. I am skilled in JavaScript, React.js, and Node.js, with a strong track record in web development. As a quick learner, I thrive on exploring innovative technologies and am committed to driving continuous improvement and innovation in every project I undertake. Let's connect and create something impactful together!",
   github: "https://github.com/noumankhateeb",
   resume:
-    "https://drive.google.com/file/d/1YUVEfTYANQEXJJ-5gX0xDb05IX7Inmzn/view?usp=sharing",
+    "https://drive.google.com/file/d/1l6VIqqX0DwyUR1srU7YEIwSKLaOCaAHL/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/noumankhateeb/",
   x: "https://x.com/nouman_khateeb",
   insta: "https://www.instagram.com/noumankhateeb/",
